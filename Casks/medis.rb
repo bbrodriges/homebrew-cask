@@ -1,5 +1,5 @@
 cask 'medis' do
-  version '0.5.0'
+  version '0.6.1'
   sha256 '894dd52129d445176a59fc75d8838417eb90aced4c678cc306ab7e57bef269be'
 
   # github.com/luin/medis was verified as official when first introduced to the cask
